@@ -1,11 +1,9 @@
 ---
 name: existential-stage-diagnosis
-description: Identify which of Kierkegaard's three existential stages (aesthetic,
-  ethical, religious) a person currently inhabits, diagnose the symptoms and avoidance
-  patterns, and guide movement toward authent...
+description: Identify which of Kierkegaard's three existential stages (aesthetic, ethical, religious) a person currently inhabits, diagnose the symptoms and avoidance patterns, and guide movement toward authent...
 license: MIT
 metadata:
-  version: 1.0.0
+  version: 1.0.1
   author: sethmblack
 keywords:
 - absurdist
